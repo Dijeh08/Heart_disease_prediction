@@ -34,9 +34,10 @@ Evaluation Metrics: Primarily focused on ROC-AOC.
 4. 📈 Results & Key Findings
 The XGBClassifier achieved an accuracy of 88.7% and a ROC-AOC of 95.51% on the test set.
 Key Predictors: Thallium, Max HR, High cholesterol, low maximum heart rate, and asymptomatic chest pain are strong indicators of heart disease.
-See EDA plots in the notebook for visual insights.
+See EDA plots in the notebook for visual insights. Check out my latest deployment on Hugging Face, where I have hosted a heart disease prediction system built with [Scikit-Learn] that you can test in real-time @ https://huggingface.co/spaces/Dijeh08/heart_disease_prediction
 
 5. ✉️ Contact
 Author: Engr. Obinna Dijeh
 LinkedIn: https://www.linkedin.com/in/dijeh-obinna/
+
 Kaggle: https://www.kaggle.com/dijeh08
